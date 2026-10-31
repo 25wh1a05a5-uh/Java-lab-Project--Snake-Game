@@ -60,15 +60,15 @@ bash
 java -cp out com.zetcode.Snake
 
 🎯 How to Play
-⬆️ Use the UP Arrow to move upward.
-⬇️ Use the DOWN Arrow to move downward.
-⬅️ Use the LEFT Arrow to move left.
-➡️ Use the RIGHT Arrow to move right.
+⬆️ UP Arrow: Move upward.
+⬇️ DOWN Arrow: Move downward.
+⬅️ LEFT Arrow: Move left.
+➡️ RIGHT Arrow: Move right.
 🍎 Collect apples to increase your score and snake length.
 Avoid collisions with yourself.
 📸 Game Preview
 
-!Snake game screenshot
+!Snake Game Screenshot
 
 🎓 Learning Outcomes
 
